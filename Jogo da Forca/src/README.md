@@ -18,13 +18,7 @@ Este é um projeto de console desenvolvido em Java com base no desafio proposto 
 ## 🧱 Estrutura do Projeto
 
 src/ 
-├── Main.java // Entrada principal da aplicação 
-├── JogoDaForca.java // Gerencia o fluxo e regras do jogo 
-├── Palavra.java // Classe que representa e manipula a palavra oculta 
-├── ForcaVisual.java // Desenha a forca com base nas tentativas 
-├── Jogador.java // (opcional) Classe para informações do jogador 
-└── Util.java // (opcional) Funções auxiliares
-
+<pre><code>src/ ├── Main.java // Entrada principal da aplicação ├── JogoDaForca.java // Gerencia o fluxo e regras do jogo ├── Palavra.java // Classe que representa e manipula a palavra oculta ├── ForcaVisual.java // Desenha a forca com base nas tentativas ├── Jogador.java // (opcional) Classe para informações do jogador └── Util.java // (opcional) Funções auxiliares </code></pre>
 
 ## 💡 Aprendizados
 
